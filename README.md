@@ -1,1 +1,1 @@
-# passwordchecker
+# password-checker
